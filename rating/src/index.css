@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background:black
+}
+.p{
+    font-size: 15px;
+    font-weight: 400;
+}
+.bg-color{
+    
+    background-image: linear-gradient( hsl(215, 58%, 14%), hsl(216, 12%, 8%));
+}
